@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**kosar-mahboob/kosar-mahboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there! I'm Kosar Mahboob 👋
 
@@ -17,9 +14,8 @@
 - Git & GitHub (currently learning!)
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/your-username)  
+[LinkedIn](https://www.linkedin.com/in/KosarMahboob)  
 [GitHub](https://github.com/kosar-mahboob)
 
 > 🌟 Thanks for visiting my profile! Let’s grow together 💖
-
  
