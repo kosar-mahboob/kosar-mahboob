@@ -11,7 +11,7 @@
 - Java
 - OOP (Object-Oriented Programming)
 - Java Swing
-- Git & GitHub (currently learning!)
+- Git & GitHub 
 
 ## 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/KosarMahboob)  
