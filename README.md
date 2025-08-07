@@ -24,6 +24,7 @@
 - 🖼 *Past Projects*: Java Swing (GUI)  
 - 🔗 *Tools*: Git & GitHub
 
+
 ---
 
 ### 📈 GitHub Stats
@@ -51,5 +52,6 @@
 - 🛠 [GitHub](https://github.com/kosar-mahboob)
 
 ---
+
 
 <p align="center">🌟 Thanks for visiting my profile! Let’s grow together 💖</p>
