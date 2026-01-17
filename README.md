@@ -127,6 +127,7 @@ kosar = AboutMe()
 
 > A Java-based application for calculating CGPA/SGPA with semester and course management.
 
+
 🔗 **[View Repository](https://github.com/kosar-mahboob/cgpa-data)**
 
 ---
