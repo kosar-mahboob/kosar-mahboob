@@ -1,383 +1,341 @@
-# 💫 Kosar Mahboob's GitHub Profile
-
 <div align="center">
-  
-  <h1>Hi there! I'm Kosar Mahboob 👋</h1>
-  
-  <p>
-    💻 **Full Stack Developer** • 🧠 **DSA & OOP Expert** • 🤖 **AI Enthusiast**<br>
-    🎓 **Computer Science Student** | 🔥 **LeetCode Daily Streak: 60+ Days**
-  </p>
-  
-  ![Profile Views](https://komarev.com/gh/readme-views?username=kosar-mahboob&color=0e75b6&style=flat&label=Profile+Views)
-  ![GitHub followers](https://img.shields.io/github/followers/kosar-mahboob?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/kosar-mahboob?style=social)
-  ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkosarmahboob&logo=leetcode&logoColor=yellow)
-  
-  <p>
-    <a href="https://www.linkedin.com/in/kosarmahboob">LinkedIn</a> •
-    <a href="mailto:kosarmahboob9@gmail.com">Email</a> •
-    <a href="https://leetcode.com/u/kosarmahboob/">LeetCode</a> •
-    <a href="https://github.com/kosar-mahboob?tab=repositories">All Projects</a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kosar%20Mahboob&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;DSA+%26+Algorithms+Enthusiast+%F0%9F%A7%A0;4th+Semester+%7C+AI+Program+%40+PAF-IAST+%F0%9F%8E%93;LeetCode+Daily+Streak+Active+%E2%9A%A1" alt="Typing SVG" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpv/?username=kosar-mahboob&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/kosar-mahboob?style=for-the-badge&color=0f0c29&labelColor=302b63&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/kosar-mahboob?style=for-the-badge&color=0f0c29&labelColor=302b63&label=STARS)
+![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a2e&color=FFA116&label=LEETCODE&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkosarmahboob&logo=leetcode&logoColor=FFA116)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosarmahboob)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosarmahboob9@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kosarmahboob/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://kosar-mahboob.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosar-mahboob?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate Computer Science student specializing in Data Structures, Algorithms, and Full-Stack Development. My journey combines rigorous problem-solving (LeetCode 60+ day streak) with practical project building. I'm currently exploring AI/ML while mastering system design principles.
+I'm a passionate **AI program student** at PAF-IAST (Pak-Austria Fachhochschule), currently in my **4th Semester**, diving deep into Software Engineering, Operating Systems, Database Systems, and Artificial Intelligence. I build things that solve real problems — from intelligent assistants to database-driven applications.
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Kosar Mahboob"
-        self.role = "Full Stack Developer & AI Student"
-        self.expertise = ["Java OOP", "Python", "DSA", "AI/ML", "Web Dev"]
-        self.current_goals = ["LeetCode Daily Challenge", "Build Production Apps", "Learn System Design"]
-        
+        self.name        = "Kosar Mahboob"
+        self.university  = "PAF-IAST | School of Computing Sciences"
+        self.semester    = "4th Semester — AI Program"
+        self.reg_no      = "B24F1055AI025"
+        self.role        = "Full Stack Developer & AI Enthusiast"
+        self.skills      = ["Java OOP", "Python", "DSA", "AI/ML", "SQL", "Web Dev"]
+        self.currently   = ["Software Engineering (CS-204)",
+                            "AI Lab (COMP-340L)",
+                            "Operating Systems",
+                            "Database Systems (COMP-262)"]
+        self.streak      = "LeetCode Daily 🔥"
+
     def daily_routine(self):
-        return """
-        1. ✅ LeetCode Problem (Morning)
-        2. 💻 Project Development
-        3. 📚 Study New Technology
-        4. 🔄 Code Review & Optimization
-        """
-        
+        return {
+            "Morning"   : "☕ LeetCode Problem of the Day",
+            "Afternoon" : "💻 Project Development & Labs",
+            "Evening"   : "📚 Study New Tech / Coursework",
+            "Night"     : "🔄 Code Review & GitHub Commit",
+        }
+
 me = Developer()
+print("Always building. Always learning. 🚀")
 ```
 
-## 🏆 GitHub Highlights
+---
+
+## 🏆 GitHub At a Glance
 
 <div align="center">
-  
-  | Metric | Achievement |
-  |--------|-------------|
-  | **Total Repositories** | 15+ Projects |
-  | **Public Projects** | 10+ Open Source |
-  | **Stars Earned** | 13+ Stars |
-  | **Daily Commits** | Consistent 60+ Days |
-  | **Languages Used** | Java, Python, C++, SQL |
+
+| Metric | Achievement |
+|:------:|:-----------:|
+| 📁 **Total Repositories** | 15+ Projects |
+| 🌍 **Public Projects** | 10+ Open Source |
+| ⭐ **Stars Earned** | 13+ Stars |
+| 🔥 **Commit Consistency** | 60+ Day Active Streak |
+| 💬 **Languages Used** | Java · Python · C++ · SQL |
 
 </div>
 
+---
+
 ## 🛠️ Technical Stack
 
-### **Core Languages**
+### 🔤 Core Languages
 ![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Development Tools**
+### ⚙️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Primary-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-Professional-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_Apps-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### **Key Skills**
+### 🧠 Competencies
 ![DSA](https://img.shields.io/badge/Data_Structures-⭐_⭐_⭐_⭐-FF6B6B?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP_Design-⭐_⭐_⭐_⭐_⭐-45B7D1?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-⭐_⭐_⭐_⭐-4ECDC4?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-⭐_⭐_⭐_⭐_⭐-45B7D1?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI_&_ML-⭐_⭐_⭐-7C3AED?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-⭐_⭐_⭐-96CEB4?style=for-the-badge)
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  ![Kosar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosar-mahboob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosar-mahboob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=kosar-mahboob&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727)
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kosar-mahboob&theme=onedark&no-frame=true&row=2&column=4)
+
+![Kosar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosar-mahboob&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7C3AED&icon_color=7C3AED)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosar-mahboob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=7C3AED)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kosar-mahboob&theme=tokyonight&hide_border=true&fire=7C3AED&ring=7C3AED&sideLabels=7C3AED)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kosar-mahboob&theme=onestar&no-frame=true&row=2&column=4&margin-w=8)
 
 </div>
 
+---
+
 ## 🎯 Featured Projects
 
-### **🤖 Mini AI Assistant** *(Latest AI Project)*
-**Tech Stack:** Python, NLP, Streamlit, Machine Learning
+### 🤖 Mini AI Assistant *(Latest — 2025)*
+**Stack:** `Python` `NLP` `Streamlit` `Machine Learning`
 
-> An intelligent assistant that helps with study organization, content summarization, and productivity enhancement using AI algorithms.
+> An intelligent personal assistant for study organization, content summarization, and productivity enhancement using AI algorithms.
 
-🔗 **[View Repository](https://github.com/kosar-mahboob/Mini-AI_Assistant)** | 📅 **Updated: Last Week**
+🔗 **[View Repository](https://github.com/kosar-mahboob/Mini-AI_Assistant)**
 
-**Key Features:**
-- 📝 **Smart Note Taking** - AI-powered organization
-- 🔍 **Content Analysis** - Automatic categorization
-- 📊 **Progress Tracking** - Study metrics visualization
-- 🎯 **Task Prioritization** - Intelligent scheduling
+- 📝 Smart Note Taking with AI-powered organization  
+- 🔍 Automatic content categorization & analysis  
+- 📊 Study progress metrics visualization  
+- 🎯 Intelligent task prioritization & scheduling  
 
 ---
 
-### **📚 Study Assistant Programming** *(3rd Semester AI Project)*
-**Tech Stack:** Python, Educational Technology, AI Algorithms
+### 📚 Study Assistant — Programming *(3rd Semester AI Project)*
+**Stack:** `Python` `Educational Tech` `AI Algorithms`
 
-> Comprehensive study assistant for programming students featuring code analysis, debugging help, and learning path recommendations.
+> Comprehensive AI-powered study assistant with code analysis, debugging help, and personalized learning path recommendations.
 
 🔗 **[View Repository](https://github.com/kosar-mahboob/Study-Assistant-Programming-For-AI-Project-3rd-SEM-Project)**
 
-**Highlights:**
-- 💡 **Code Explanation Generator**
-- 🐞 **Debugging Assistant**
-- 📈 **Learning Progress Tracker**
-- 🛣️ **Personalized Study Paths**
+- 💡 Code Explanation Generator  
+- 🐞 Debugging Assistant  
+- 📈 Learning Progress Tracker  
+- 🛣️ Personalized Study Paths  
 
 ---
 
-### **🎓 Student Record Management System** *(DSA Project)*
-**Tech Stack:** Java, Data Structures, File Handling, OOP Principles
+### 🎓 Student Record Management System *(DSA Project)*
+**Stack:** `Java` `Data Structures` `File Handling` `OOP`
 
-> Robust console application demonstrating advanced DSA concepts with efficient CRUD operations and data management.
+> Robust console application demonstrating advanced DSA concepts with efficient CRUD operations, GPA tracking, and data persistence.
 
 🔗 **[View Repository](https://github.com/kosar-mahboob/Student-Record-Managment-System_DSA-project)**
 
-**Data Structures Implemented:**
-- ⚡ **HashMaps** for O(1) student lookup
-- 📚 **ArrayLists** for dynamic record management
-- 🔄 **Sorting Algorithms** (QuickSort, MergeSort)
-- 🔍 **Search Algorithms** (Binary Search, Linear Search)
-- 💾 **Serialization** for data persistence
+**DSA Implemented:** HashMaps (O(1) lookup) · ArrayLists · QuickSort / MergeSort · Binary Search · Java Serialization
 
-**Features:**
-- 👥 **Multi-User Management**
-- 📋 **Attendance Tracking**
-- 🏆 **GPA Calculation & Analysis**
-- 📊 **Report Generation**
-- 🔐 **Data Security Features**
+- 👥 Multi-User Management & Attendance Tracking  
+- 🏆 GPA Calculation & Academic Report Generation  
+- 🔐 Data Security & Input Validation  
 
 ---
 
-### **📈 CGPA Calculator** *(Academic Tool)*
-**Tech Stack:** Java, Swing GUI, Mathematical Calculations
+### 🛒 Smart Shop Management System *(Database Project)*
+**Stack:** `Java` `MySQL` `JDBC` `Inventory Management`
 
-> Professional GPA/CGPA calculator with semester-wise tracking, grade predictions, and academic planning features.
-
-🔗 **[View Repository](https://github.com/kosar-mahboob/CGPA-Calculator)**
-
-**Functionality:**
-- 📅 **Semester-wise Calculation**
-- 📈 **Grade Trend Analysis**
-- 🎯 **Target GPA Planning**
-- 💾 **Save/Load Transcripts**
-- 🖨️ **Report Export**
-
----
-
-### **🛒 Smart Shop Management System** *(Database Project)*
-**Tech Stack:** Java, MySQL, JDBC, Inventory Management
-
-> Complete retail management system with inventory control, sales tracking, customer management, and billing system.
+> Complete retail management solution with inventory control, billing, CRM, and sales analytics powered by a relational MySQL backend.
 
 🔗 **[View Repository](https://github.com/kosar-mahboob/SmartShopMangment)**
 
-**Modules:**
-- 📦 **Inventory Management** (Stock alert, Reorder points)
-- 💰 **Sales & Billing System**
-- 👥 **Customer Relationship Management**
-- 📊 **Sales Analytics Dashboard**
-- 🏪 **Multi-Store Support**
+- 📦 Inventory with stock alerts & reorder points  
+- 💰 Full Sales & Billing System  
+- 📊 Analytics Dashboard  
+- 🏪 Multi-Store Support  
 
 ---
 
-### **❓ Quiz Application** *(Interactive Learning)*
-**Tech Stack:** Python, Interactive Console, Educational Tools
+### 📈 CGPA Calculator *(Academic Tool)*
+**Stack:** `Java` `Swing GUI` `Mathematical Calculations`
 
-> Dynamic quiz platform with multiple question types, scoring system, and performance analytics.
+🔗 **[View Repository](https://github.com/kosar-mahboob/CGPA-Calculator)**
 
-🔗 **[View Repository](https://github.com/kosar-mahboob/QuizApp.py)**
-
-**Features:**
-- 🎯 **Multiple Question Types** (MCQ, True/False, Fill blanks)
-- ⏱️ **Timed Quizzes**
-- 📈 **Performance Analytics**
-- 📚 **Topic-wise Quizzes**
-- 💾 **Score History**
+- 📅 Semester-wise GPA calculation & trend analysis  
+- 🎯 Target GPA planning & prediction  
+- 💾 Save/Load transcripts + Report Export  
 
 ---
 
-### **🔐 Java Login & Signup System** *(First GUI Project)*
-**Tech Stack:** Java, Swing, HashMap, User Authentication
-
-> My first Java GUI project featuring secure user authentication with password encryption and session management.
-
-🔗 **[View Repository](https://github.com/kosar-mahboob/java-LoginSignup-Form)**
-
-**Security Features:**
-- 🔒 **Password Hashing**
-- 📝 **Input Validation**
-- 👤 **Session Management**
-- 🎨 **User-friendly Interface**
-- 💾 **Persistent User Data**
-
----
-
-### **🎮 Tic Tac Toe Game** *(AI Implementation)*
-**Tech Stack:** Python, Game Theory, Minimax Algorithm
-
-> Intelligent Tic Tac Toe game implementing Minimax algorithm with different difficulty levels and unbeatable AI.
+### 🎮 Tic Tac Toe — AI *(Game Theory)*
+**Stack:** `Python` `Minimax Algorithm` `Game Theory`
 
 🔗 **[View Repository](https://github.com/kosar-mahboob/Tic-Tac-Toe-Game)**
 
-**AI Features:**
-- 🤖 **Minimax Algorithm Implementation**
-- 📊 **Difficulty Levels** (Easy, Medium, Hard)
-- 🏆 **Win Strategy Detection**
-- 🛡️ **Defensive Play Algorithms**
-- 📈 **Game Statistics Tracking**
+- 🤖 Unbeatable AI via Minimax  
+- 📊 Easy / Medium / Hard difficulty levels  
+- 🏆 Win strategy detection + game statistics  
 
 ---
 
-### **🌳 Tree Data Structure Implementation** *(DSA Lab)*
-**Tech Stack:** Java, Data Structures, Tree Algorithms
+### ❓ Quiz Application *(Interactive Learning)*
+**Stack:** `Python` `Interactive Console`
 
-> Comprehensive implementation of tree data structures including BST, AVL Tree, and traversal algorithms.
+🔗 **[View Repository](https://github.com/kosar-mahboob/QuizApp.py)**
 
-🔗 **Private Repository** | 📅 **Updated: Sep 8, 2025**
-
-**Implementations:**
-- 🌲 **Binary Search Tree** (Insert, Delete, Search)
-- ⚖️ **AVL Tree** (Auto-balancing)
-- 🔄 **Tree Traversals** (Inorder, Preorder, Postorder)
-- 📊 **Tree Visualization**
-- 🔍 **Tree Operations** (Height, Depth, Diameter)
+- 🎯 MCQ · True/False · Fill in the Blanks  
+- ⏱️ Timed quizzes with performance analytics  
 
 ---
 
-### **📘 DSA Practice Repository** *(Daily Coding)*
-**Tech Stack:** Java, Algorithms, Problem Solving
+### 🔐 Java Login & Signup System *(First GUI Project)*
+**Stack:** `Java` `Swing` `HashMap` `Authentication`
 
-> Daily practice repository tracking my DSA journey with categorized problems and solutions.
+🔗 **[View Repository](https://github.com/kosar-mahboob/java-LoginSignup-Form)**
+
+- 🔒 Password hashing & session management  
+- 💾 Persistent user data with input validation  
+
+---
+
+### 🌳 Tree Data Structures *(DSA Lab)*
+**Stack:** `Java` · BST · AVL Tree · Traversals
+
+🔗 **Private Repository** | 📅 Updated: Sep 2025
+
+- Binary Search Tree, AVL Auto-balancing, all standard traversals  
+
+---
+
+### 📘 DSA Practice Repository *(Daily Coding)*
+**Stack:** `Java` · `LeetCode Solutions`
 
 🔗 **[View Repository](https://github.com/kosar-mahboob/DSA-practice)**
 
-**Categories:**
-- 🔢 **Arrays & Strings**
-- 📚 **Linked Lists**
-- 🌳 **Trees & Graphs**
-- 🔄 **Dynamic Programming**
-- 🎯 **LeetCode Solutions**
+- Arrays · Linked Lists · Trees · Graphs · Dynamic Programming  
 
 ---
 
-### **🏫 Academic Content Repositories**
-- **4th Semester Content** *(Private)* - Current semester materials
-- **3rd Semester Content** *(Private)* - Previous semester projects
-- **DSA Lab Work** *(Private)* - University lab assignments
-- **P4AI Lab Work** *(Private)* - Programming for AI labs
-
-## 📌 Current Focus Areas
+## 🗺️ Current Focus
 
 ```mermaid
 graph LR
-    A[Current Focus] --> B[Advanced DSA]
-    A --> C[Machine Learning]
-    A --> D[Web Development]
-    A --> E[System Design]
-    
+    A[🎯 2026 Focus] --> B[Advanced DSA]
+    A --> C[AI & Machine Learning]
+    A --> D[Database Systems]
+    A --> E[Software Engineering]
+
     B --> B1[Graph Algorithms]
     B --> B2[Dynamic Programming]
-    
-    C --> C1[Neural Networks]
+
+    C --> C1[Search Algorithms]
     C --> C2[NLP Projects]
-    
-    D --> D1[Full Stack Apps]
-    D --> D2[API Development]
-    
-    E --> E1[Design Patterns]
-    E --> E2[Scalability]
+
+    D --> D1[ER Design & SQL]
+    D --> D2[Normalization]
+
+    E --> E1[SRS & Requirements]
+    E --> E2[Process Models]
 ```
 
-## 🚀 What's Next?
+---
 
-### **Upcoming Projects**
-1. **🤖 AI-Powered Code Reviewer** - Automated code quality analysis
-2. **📱 Expense Tracker App** - Full-stack financial management
-3. **🎓 Online Learning Platform** - Interactive course delivery
-4. **🤝 Collaborative Coding Tool** - Real-time pair programming
+## 📅 Learning Roadmap — 2026
 
-### **Learning Roadmap 2025**
-- **Q1:** Master Advanced DSA Patterns
-- **Q2:** Build Full-Stack Applications
-- **Q3:** Dive Deep into Machine Learning
-- **Q4:** Contribute to Open Source Projects
+| Quarter | Goal |
+|:-------:|:-----|
+| **Q1** | Master Graph Algorithms & complete 4th Semester strong |
+| **Q2** | Build full-stack production applications |
+| **Q3** | Deep dive into Machine Learning & Neural Networks |
+| **Q4** | Contribute to Open Source + internship preparation |
 
-## 📈 Weekly Development Activity
+---
+
+## 📈 Weekly Dev Activity
 
 ```text
 🎯 TARGET: 35 HOURS/WEEK
-──────────────────────────────
-Java Development    ████████████░░░░    60%
-Python Projects     ████████░░░░░░░░    40%
-LeetCode Practice   ██████████████░░    80%
-Web Development     ████░░░░░░░░░░░░    20%
-AI/ML Learning      █████░░░░░░░░░░░    30%
-──────────────────────────────
-TOTAL: 230 HOURS/MONTH ⚡
+──────────────────────────────────────
+Java Development     ████████████░░░░  60%
+Python Projects      ████████░░░░░░░░  40%
+LeetCode Practice    ██████████████░░  80%
+AI/ML Learning       ██████░░░░░░░░░░  35%
+Web & DB Projects    █████░░░░░░░░░░░  25%
+──────────────────────────────────────
+TOTAL: ~230 HOURS/MONTH ⚡
 ```
 
-## 🤝 Collaboration Opportunities
-
-I'm actively looking to collaborate on:
-
-- **🤖 AI/ML Research Projects**
-- **💻 Open Source Java/Python Libraries**
-- **🎓 Educational Technology Tools**
-- **🏆 Competitive Programming Teams**
-- **🌐 Full-Stack Web Applications**
+---
 
 ## 🏅 Achievements & Milestones
 
 <div align="center">
-  
-  | Milestone | Status | Date |
-  |-----------|--------|------|
-  | **LeetCode 60+ Day Streak** | ✅ Active | Present |
-  | **15+ GitHub Repositories** | ✅ Completed | Jan 2025 |
-  | **First AI Project** | ✅ Completed | Dec 2024 |
-  | **DSA Mastery (500+ Problems)** | 🎯 In Progress | Target: Mar 2025 |
-  | **Open Source Contribution** | 🔄 Planned | Feb 2025 |
+
+| Milestone | Status | Date |
+|-----------|:------:|:----:|
+| 🔥 LeetCode Daily Streak | ✅ Active | 2025 → Present |
+| 📁 15+ GitHub Repositories | ✅ Done | Jan 2025 |
+| 🤖 First AI Project Shipped | ✅ Done | Dec 2024 |
+| 📊 DSA 500+ Problems | 🎯 In Progress | Target: Q2 2026 |
+| 🌍 Open Source Contribution | 🔄 Planned | Q2 2026 |
+| 🏫 4th Semester Completion | 🎓 In Progress | 2026 |
 
 </div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosarmahboob)
-  [![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosar-mahboob)
-  [![Gmail](https://img.shields.io/badge/Email-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosarmahboob9@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kosarmahboob/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-6E5494?style=for-the-badge&logo=github&logoColor=white)](https://kosar-mahboob.github.io)
-
-</div>
-
-## 💭 Developer Philosophy
-
-> "Code is not just about making things work—it's about creating elegant solutions that stand the test of time. Every bug is a lesson, every algorithm is a story, and every project is a journey toward mastery."
-
-## 🌟 Support My Work
-
-If you find my projects helpful, consider:
-
-- ⭐ **Starring repositories** you find useful
-- 🔄 **Forking projects** to build upon
-- 💬 **Providing feedback** and suggestions
-- 🤝 **Collaborating** on interesting projects
 
 ---
 
+## 🤝 Open to Collaborate On
+
+- 🤖 AI/ML Research & Projects  
+- 💻 Open Source Java / Python Libraries  
+- 🎓 EdTech & Student Tools  
+- 🏆 Competitive Programming  
+- 🌐 Full-Stack Web Applications  
+
+---
+
+## 💭 Philosophy
+
+> *"Code is not just about making things work — it's about crafting elegant solutions that stand the test of time. Every bug is a lesson, every algorithm is a story, every project is a step toward mastery."*
+
+---
+
+## 📫 Let's Connect
+
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=30&lines=Code+With+Purpose%2C+Build+With+Passion;Daily+Progress+Over+Perfection;Transforming+Ideas+Into+Impact" alt="Typing SVG" />
-  
-  <p>🚀 <strong>Always building, always learning.</strong> Let's create something amazing together! 💫</p>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding%20🚀&fontSize=40&animation=fadeIn)
-  
-  <p>© 2025 Kosar Mahboob • Updated Daily</p>
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosarmahboob)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosar-mahboob)
+[![Gmail](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosarmahboob9@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kosarmahboob/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://kosar-mahboob.github.io)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Always+building.+Always+learning.+%F0%9F%9A%80;Open+to+opportunities+%26+collaboration+%F0%9F%A4%9D;Let%27s+create+something+amazing+together!+%F0%9F%92%AB" />
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Keep+Coding+%F0%9F%9A%80&fontSize=36&fontColor=ffffff&animation=fadeIn)
+
+<sub>© 2026 Kosar Mahboob · PAF-IAST AI Program · Updated Regularly</sub>
+
 </div>
