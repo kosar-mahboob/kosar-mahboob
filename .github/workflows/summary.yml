@@ -6,6 +6,7 @@ on:
 
 jobs:
   summary:
+  
     runs-on: ubuntu-latest
     permissions:
       issues: write
