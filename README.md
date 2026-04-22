@@ -62,9 +62,6 @@ Complete retail solution with inventory, billing, and sales analytics.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosar-mahboob&layout=compact&theme=default&hide_border=true&title_color=7C3AED" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kosar-mahboob&theme=default&hide_border=true&fire=7C3AED&ring=7C3AED&sideLabels=7C3AED" />
-</p>
 
 ---
 
