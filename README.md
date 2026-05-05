@@ -1,7 +1,6 @@
 # Kosar Mahboob
 
 ### Full Stack Developer & AI Student
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosarmahboob)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kosarmahboob9@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([https://leetcode.com/u/kosarmahboob/](https://leetcode.com/u/Kosar_776/))
